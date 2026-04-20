@@ -204,6 +204,7 @@ const configuredPeople = {
   40: {
     label: "דנדול",
     image:
+  },
 };
 
 const people = Array.from({ length: TOTAL_PEOPLE }, (_, i) => ({
