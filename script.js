@@ -201,10 +201,6 @@ const configuredPeople = {
     image:
       "file:///C:/Users/%D7%99%D7%A0%D7%90%D7%99%20%D7%A7%D7%94%D7%99%D7%9E%D7%A7%D7%A8/.cursor/projects/c-Users-Projects-guess-who-game/assets/c__Users_____________AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_image-48e0420e-40fd-42f4-a1da-2a29f74ca421.png",
   },
-  40: {
-    label: "דנדול",
-    image:
-  },
 };
 
 const people = Array.from({ length: TOTAL_PEOPLE }, (_, i) => ({
