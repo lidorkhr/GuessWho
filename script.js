@@ -9,8 +9,7 @@ let audioContext;
 const configuredPeople = {
   1: {
     label: "אדווה",
-    image:
-      "file:///C:/Users/%D7%99%D7%A0%D7%90%D7%99%20%D7%A7%D7%94%D7%99%D7%9E%D7%A7%D7%A8/.cursor/projects/c-Users-Projects-guess-who-game/assets/c__Users_____________AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_image-771c6bea-23c4-42ed-8798-a03c3452a844.png",
+    image:  "file:///C:/Users/%D7%99%D7%A0%D7%90%D7%99%20%D7%A7%D7%94%D7%99%D7%9E%D7%A7%D7%A8/.cursor/projects/c-Users-Projects-guess-who-game/assets/c__Users_____________AppData_Roaming_Cursor_User_workspaceStorage_empty-window_images_image-771c6bea-23c4-42ed-8798-a03c3452a844.png",
   },
   2: {
     label: "נופר",
